@@ -8,6 +8,7 @@
 
 #### Ativy - Campinas - SP - Brazil
 * Senior Network analisty 
+* SRE
 
 ###### SINCE Jan 2020
 
